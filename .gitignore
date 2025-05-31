@@ -1,0 +1,10 @@
+# Eclipse-specific files
+/.classpath
+/.project
+/.settings/
+/bin/
+
+# Ignorer les fichiers temporaires de l'OS
+Thumbs.db
+ehthumbs.db
+Desktop.ini
